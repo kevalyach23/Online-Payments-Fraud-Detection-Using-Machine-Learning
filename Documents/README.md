@@ -1,1 +1,1 @@
-project Document files are stored here
+project Document files are uploaded here
